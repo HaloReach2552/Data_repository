@@ -24,8 +24,8 @@ import matplotlib as plt
 ```
 |   |Python|   R   |
 |--:|-----:|------:|
-| 1 | First|       |
-| 2 |      |Second |
+| 1 | First|   0   |
+| 2 |   0  |Second |
 
 ##### Top Technologies
 
