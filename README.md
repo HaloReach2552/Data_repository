@@ -7,6 +7,6 @@
 * The programing language I use is **Python**. Not in **R**
 * Also there are some dataset to download directly from Github.
 
-![Github logo](https://pbs.twimg.com/profile_images/1400669704750960647/FdGCTDos_400x400.jpg)
+![Github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 ---
