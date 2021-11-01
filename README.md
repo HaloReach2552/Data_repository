@@ -24,5 +24,5 @@ import matplotlib as plt
 
 ##### Top Technologies
 
-[![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=black&logo=R&logoColor=007acc)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-F0DB4F?style=for-the-badge&labelColor=black&logo=python&logoColor=F0DB4F)](#) [![R Badge](https://img.shields.io/badge/-R-007acc?style=for-the-badge&labelColor=black&logo=R&logoColor=007acc)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-007acc?style=for-the-badge&labelColor=black&logo=SQL&logoColor=007acc)](#)
 ---
