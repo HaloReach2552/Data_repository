@@ -1,6 +1,7 @@
 
 # Welcome to my repository :smiley: :sunglasses:
-## Link: https://haloreach2552.github.io/
+---
+## Junior Programmer
 
 
 * I usually upload files from Jupyter Notebook. All those files provides tools in order to analyze the data from other repositories.
