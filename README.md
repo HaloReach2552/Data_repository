@@ -22,10 +22,13 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 ```
+
+```
 |   |Python|   R   |
 |--:|-----:|------:|
 | 1 | First|   0   |
 | 2 |   0  |Second |
+```
 
 ##### Top Technologies
 
