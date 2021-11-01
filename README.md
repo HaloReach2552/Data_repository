@@ -16,6 +16,10 @@
 print("Hola Mundo")
 ```
 
-
+```python
+import pandas as pd
+import numpy as np
+import matplotlib as plt
+```
 
 ---
