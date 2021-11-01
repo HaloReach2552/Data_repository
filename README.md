@@ -23,7 +23,7 @@ import numpy as np
 import matplotlib as plt
 ```
 |   |Python|   R   |
-|   |------|------:|
+|--:|-----:|------:|
 | 1 | First|       |
 | 2 |      |Second |
 
