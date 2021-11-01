@@ -1,6 +1,6 @@
 
 # Welcome to my repository :smiley: :sunglasses:
-## Junior Programmer
+## Programmer Junior
 ###
 ####
 * I usually upload files from Jupyter Notebook. All those files provides tools in order to analyze the data from other repositories.
