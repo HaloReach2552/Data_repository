@@ -1,5 +1,5 @@
 
-# Welcome to my repository :smiley: :sunglasses:
+# Welcome to my repository <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ## Programmer Junior
 ### Link: [haloreach2552.github.com](https://haloreach2552.github.io/Data_repository/)
 #### More information soon :)
@@ -22,4 +22,7 @@ import numpy as np
 import matplotlib as plt
 ```
 
+##### Top Technologies
+
+[![Python]()]
 ---
