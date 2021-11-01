@@ -11,7 +11,6 @@
 
 ![Github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
-
 * ffffff
 
 ```python
@@ -23,6 +22,10 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 ```
+|   |Python|   R   |
+|   |------|------:|
+| 1 | First|       |
+| 2 |      |Second |
 
 ##### Top Technologies
 
