@@ -24,5 +24,5 @@ import matplotlib as plt
 
 ##### Top Technologies
 
-[![Python]()]
+[![Python](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)]
 ---
