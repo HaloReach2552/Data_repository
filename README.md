@@ -7,7 +7,7 @@
 * 😄 The programing language I use is **Python**. Not in **R**
 * 😄 Also there are some dataset to download directly from Github.
 
-![Github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+![Github logo|100](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 
 * ffffff
