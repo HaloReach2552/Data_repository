@@ -30,8 +30,11 @@ import matplotlib as plt
 | 2 |   0  |Second |
 ```
 ## Chapter 2
+*
 ## Chapter 3
+*
 ## Chapter 4
+*
 
 ## Number of contributors
 1️⃣ contributor
