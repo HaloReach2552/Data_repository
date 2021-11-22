@@ -11,7 +11,7 @@
 * 📌 So, you are welcome to visit my repository 
 ![Github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
-* ffffff
+* ff
 
 ```python
 print("Hola Mundo")
