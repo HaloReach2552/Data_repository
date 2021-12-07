@@ -8,7 +8,3 @@
 * 😀 The programing language I use is **Python**. Not in **R**
 * 😀 Also there are some dataset to download directly from Github.
 * 📫 How to reach me: a20163041@pucp.edu.pe
-
-
-## Number of contributors
-1️⃣ contributor
