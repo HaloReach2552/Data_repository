@@ -8,26 +8,6 @@
 * 😀 The programing language I use is **Python**✔️. Not in **R**❌
 * 😀 Also there are some dataset to download directly from Github.
 * 📫 How to reach me: a20163041@pucp.edu.pe
-* 📌 So, you are welcome to visit my repository 
-![Github logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
-
-* ff
-
-```python
-print("Hola Mundo")
-```
-
-```python
-import pandas as pd
-import numpy as np
-import matplotlib as plt
-```
-## Chapter 2
-*
-## Chapter 3
-*
-## Chapter 4
-*
 
 ## Number of contributors:
 1️⃣ contributor
